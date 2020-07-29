@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC_24V Pin=X7-1
+Removed Pin From Net: NetName=GND Pin=X7-2
+Removed Pin From Net: NetName=VCC_24V Pin=X8-1
+Removed Pin From Net: NetName=GND Pin=X8-2
+Removed Member From Class: ClassName=PCB Ver. 1.0 Member=X9
+Removed Member From Class: ClassName=PCB Ver. 1.0 Member=X10
+Change Component Designator: OldDesignator=X9 NewDesignator=X7
+Change Component Designator: OldDesignator=X10 NewDesignator=X8
+Added Room: Name=PCB Ver. 1.0

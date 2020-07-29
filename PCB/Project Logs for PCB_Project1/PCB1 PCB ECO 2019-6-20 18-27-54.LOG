@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=R15 NewDesignator=R18
+Change Component Designator: OldDesignator=R18 NewDesignator=R15
+Change Net Name : Old Net Name=NetR18_2 New Net Name=NetR15_2
+Added Room: Name=PCB Ver. 1.0

@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C19 Old Footprint=6-0805_N New Footprint=0805
+Change Component Footprint: Designator=C20 Old Footprint=6-0805_N New Footprint=0805
+Change Component Footprint: Designator=C23 Old Footprint=6-0805_N New Footprint=0805
+Change Component Footprint: Designator=C24 Old Footprint=6-0805_N New Footprint=0805
+Change Component Footprint: Designator=C21 Old Footprint=RAD-0.3 New Footprint=0805
+Change Component Footprint: Designator=C22 Old Footprint=RAD-0.3 New Footprint=0805
+Added Room: Name=PCB Ver. 1.0

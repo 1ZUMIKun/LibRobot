@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=UART7_RX Pin=D8-2
+Added Pin To Net: NetName=UART7_TX Pin=D9-2
+Added Room: Name=PCB Ver. 1.0

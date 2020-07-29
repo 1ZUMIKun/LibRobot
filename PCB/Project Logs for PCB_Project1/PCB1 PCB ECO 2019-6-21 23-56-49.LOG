@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC_3V3 Pin=R66-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=R67-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=R68-2
+Removed Pin From Net: NetName=VCC_3V3 Pin=R69-2
+Added Pin To Net: NetName=VCC_5V Pin=R66-2
+Added Pin To Net: NetName=VCC_5V Pin=R67-2
+Added Pin To Net: NetName=VCC_5V Pin=R68-2
+Added Pin To Net: NetName=VCC_5V Pin=R69-2
+Added Room: Name=PCB Ver. 1.0

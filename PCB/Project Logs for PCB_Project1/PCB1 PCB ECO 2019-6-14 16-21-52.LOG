@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VDD_3V3 Pin=R65-2
+Added Pin To Net: NetName=NetC11_1 Pin=R65-2
+Added Room: Name=PCB Ver. 1.0

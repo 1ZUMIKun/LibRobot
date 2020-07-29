@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C17 Old Footprint=6-0805_N New Footprint=0805
+Change Component Footprint: Designator=C18 Old Footprint=6-0805_N New Footprint=0805
+Change Component Comment : Designator=C17 Old Comment=0.1¦ÌF New Comment=Cap
+Change Component Comment : Designator=C18 Old Comment=0.1¦ÌF New Comment=Cap
+Added Room: Name=PCB Ver. 1.0

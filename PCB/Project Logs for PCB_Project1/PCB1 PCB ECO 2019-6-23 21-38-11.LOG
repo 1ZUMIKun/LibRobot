@@ -1,0 +1,9 @@
+Added Component: Designator=C22(0805)
+Added Component: Designator=C32(0805)
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=VDD_3V3 Pin=C32-2
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component C22 Cap
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component C32 Cap
+Added Room: Name=PCB Ver. 1.0

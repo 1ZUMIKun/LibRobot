@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=NetP7_1 New Net Name=CAN1_H
+Change Net Name : Old Net Name=NetP7_2 New Net Name=CAN1_L
+Change Net Name : Old Net Name=NetP13_1 New Net Name=CAN2_H
+Change Net Name : Old Net Name=NetP13_2 New Net Name=CAN2_L
+Added Room: Name=PCB Ver. 1.0

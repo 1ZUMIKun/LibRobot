@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=ADC3_IN4 Pin=R41-1
+Removed Pin From Net: NetName=ADC3_IN5 Pin=R42-2
+Removed Pin From Net: NetName=ADC3_IN6 Pin=R43-1
+Removed Pin From Net: NetName=ADC3_IN7 Pin=R44-2
+Removed Pin From Net: NetName=ADC3_IN8 Pin=R45-1
+Removed Pin From Net: NetName=ADC3_IN9 Pin=R46-2
+Removed Pin From Net: NetName=ADC3_IN14 Pin=R47-1
+Removed Pin From Net: NetName=ADC3_IN15 Pin=R48-2
+Added Pin To Net: NetName=ADC3_IN14 Pin=R41-1
+Added Pin To Net: NetName=ADC3_IN15 Pin=R42-2
+Added Pin To Net: NetName=ADC3_IN8 Pin=R43-1
+Added Pin To Net: NetName=ADC3_IN9 Pin=R44-2
+Added Pin To Net: NetName=ADC3_IN6 Pin=R45-1
+Added Pin To Net: NetName=ADC3_IN7 Pin=R46-2
+Added Pin To Net: NetName=ADC3_IN4 Pin=R47-1
+Added Pin To Net: NetName=ADC3_IN5 Pin=R48-2
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component P14 Header 7X2
+Added Room: Name=PCB Ver. 1.0

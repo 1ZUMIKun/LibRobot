@@ -1,0 +1,39 @@
+Added Component: Designator=D6(1206_LED)
+Added Component: Designator=D7(1206_LED)
+Added Component: Designator=D8(1206_LED)
+Added Component: Designator=D9(1206_LED)
+Added Component: Designator=R66(0805)
+Added Component: Designator=R67(0805)
+Added Component: Designator=R68(0805)
+Added Component: Designator=R69(0805)
+Added Pin To Net: NetName=USART1_RX Pin=D6-2
+Added Pin To Net: NetName=USART1_TX Pin=D7-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R66-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R67-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R68-2
+Added Pin To Net: NetName=VCC_3V3 Pin=R69-2
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=R66-1
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=R67-1
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_1 Pin=R68-1
+Added Net: Name=NetD8_1
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_1 Pin=R69-1
+Added Net: Name=NetD9_1
+Added Pin To Net: NetName=USART7_RX Pin=D8-2
+Added Net: Name=USART7_RX
+Added Pin To Net: NetName=USART7_TX Pin=D9-2
+Added Net: Name=USART7_TX
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component D6 LED_RED
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component D7 LED_RED
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component D8 LED_RED
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component D9 LED_RED
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R66 Res2
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R67 Res2
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R68 Res2
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R69 Res2
+Added Room: Name=PCB Ver. 1.0

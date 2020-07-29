@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VDDA Pin=R13-2
+Removed Member From Class: ClassName=PCB Ver. 1.0 Member=R13
+Added Pin To Net: NetName=VDDA Pin=C16-2
+Added Pin To Net: NetName=VDDA Pin=U1-32
+Added Room: Name=PCB Ver. 1.0

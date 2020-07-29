@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=J1 Old Footprint=HDR2X20 New Footprint=HDR2X10H
+Change Component Comment : Designator=J1 Old Comment=Header 20X2H New Comment=Header 10X2H
+Added Room: Name=PCB Ver. 1.0

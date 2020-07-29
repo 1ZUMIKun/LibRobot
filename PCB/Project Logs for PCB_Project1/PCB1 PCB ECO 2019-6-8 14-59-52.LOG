@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=C9 Old Footprint=1206 New Footprint=0805
+Change Component Footprint: Designator=C11 Old Footprint=1206 New Footprint=0805
+Added Component: Designator=D5(1206_LED)
+Added Component: Designator=R65(0805)
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=VDD_3V3 Pin=R65-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R65-1
+Added Net: Name=NetD5_1
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component D5 LED_RED
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component R65 Res2

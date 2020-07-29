@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C9 Old Footprint=RB7.6-15 New Footprint=RB-.2/.4
+Change Component Footprint: Designator=C11 Old Footprint=RB7.6-15 New Footprint=RB-.2/.4
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component X7 XT30
+Added Member To Class: ClassName=PCB Ver. 1.0 Member=Component X8 XT30
+Added Room: Name=PCB Ver. 1.0

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VDD_3V3 Pin=R14-1
+Removed Pin From Net: NetName=VDD_3V3 Pin=R15-1
+Removed Member From Class: ClassName=PCB Ver. 1.0 Member=R14
+Removed Member From Class: ClassName=PCB Ver. 1.0 Member=R15
+Added Pin To Net: NetName=VDD_3V3 Pin=U1-6
+Added Pin To Net: NetName=VDD_3V3 Pin=U1-30
+Added Room: Name=PCB Ver. 1.0

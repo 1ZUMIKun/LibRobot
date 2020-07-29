@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=NetP14_1 Pin=P14-1
+Removed Pin From Net: NetName=NetP14_2 Pin=P14-2
+Removed Pin From Net: NetName=NetP14_3 Pin=P14-3
+Removed Pin From Net: NetName=NetP14_4 Pin=P14-4
+Removed Pin From Net: NetName=VCC_3V3 Pin=P14-11
+Removed Pin From Net: NetName=VCC_5V Pin=P14-12
+Removed Pin From Net: NetName=GND Pin=P14-13
+Removed Pin From Net: NetName=GND Pin=P14-14
+Removed Pin From Net: NetName=NetP14_1 Pin=R25-2
+Removed Pin From Net: NetName=NetP14_2 Pin=R26-1
+Removed Pin From Net: NetName=NetP14_3 Pin=R27-2
+Removed Pin From Net: NetName=NetP14_4 Pin=R28-1
+Removed Pin From Net: NetName=NetP14_5 Pin=R29-2
+Removed Pin From Net: NetName=NetP14_6 Pin=R30-1
+Removed Pin From Net: NetName=NetP14_7 Pin=R31-2
+Removed Pin From Net: NetName=NetP14_8 Pin=R32-1
+Removed Pin From Net: NetName=NetP14_9 Pin=R33-2
+Removed Pin From Net: NetName=NetP14_10 Pin=R34-1
+Added Pin To Net: NetName=GND Pin=P14-1
+Added Pin To Net: NetName=GND Pin=P14-2
+Added Pin To Net: NetName=VCC_3V3 Pin=P14-3
+Added Pin To Net: NetName=VCC_5V Pin=P14-4
+Added Pin To Net: NetName=NetP14_1 Pin=P14-11
+Added Pin To Net: NetName=NetP14_2 Pin=P14-12
+Added Pin To Net: NetName=NetP14_3 Pin=P14-13
+Added Pin To Net: NetName=NetP14_4 Pin=P14-14
+Added Pin To Net: NetName=NetP14_5 Pin=R25-2
+Added Pin To Net: NetName=NetP14_6 Pin=R26-1
+Added Pin To Net: NetName=NetP14_7 Pin=R27-2
+Added Pin To Net: NetName=NetP14_8 Pin=R28-1
+Added Pin To Net: NetName=NetP14_9 Pin=R29-2
+Added Pin To Net: NetName=NetP14_10 Pin=R30-1
+Added Pin To Net: NetName=NetP14_1 Pin=R31-2
+Added Pin To Net: NetName=NetP14_2 Pin=R32-1
+Added Pin To Net: NetName=NetP14_3 Pin=R33-2
+Added Pin To Net: NetName=NetP14_4 Pin=R34-1
+Change Net Name : Old Net Name=NetP14_1 New Net Name=NetP14_11
+Change Net Name : Old Net Name=NetP14_2 New Net Name=NetP14_12
+Change Net Name : Old Net Name=NetP14_3 New Net Name=NetP14_13
+Change Net Name : Old Net Name=NetP14_4 New Net Name=NetP14_14
+Added Room: Name=PCB Ver. 1.0
