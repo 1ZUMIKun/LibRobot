@@ -14,8 +14,8 @@ cond1=>condition: 书架上有书?
 end1=>end: End
 
 st1->op1->cond1
-cond1(yes)->end1
-cond1(no)->op2->op1
+cond1(yes)->op2->op1
+cond1(no)->end1
 ```
 
 
