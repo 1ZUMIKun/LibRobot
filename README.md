@@ -6,7 +6,6 @@ https://github.com/XiaYubin/LibRobot
 
 ## TODO:
 
-- [ ] TODO：语音识别接口
-- [ ] TODO：还书过程运动逻辑
+- [x] TODO：还书过程运动逻辑
 - [x] TODO：明确上位机指令
 
